@@ -34,26 +34,30 @@
 		<meta property="term" refines="#subject-1">sh85037260</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Mystery</meta>
+		<meta property="se:subject">Comedy</meta>
+		<dc:description id="description">Two friends become amateur sleuths when an suicide during a summer retreat leaves too many questions unanswered.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Anthony Berkeley’s The Layton Court Mystery introduces best friends Roger Sheringham and Alexander (Alec) Grierson, who join a distinguished roster of London society guests at the country estate of wealthy bachelor Victor Stanworth. The retreat takes a grim turn when Stanworth is discovered dead in his study, a gunshot wound to the head. At first glance, the scene suggests suicide: the study is locked from the inside, there are no signs of forced entry, and nothing unusual was reported the night before. Yet Roger, ever suspicious of neat explanations, senses inconsistencies everywhere he looks. Convinced that something is amiss, he recruits Alec to help him investigate before the gathering disperses—and before a murderer slips away unnoticed.&lt;/p&gt;
+			&lt;p&gt;Originally published anonymously in 1925 by Langtail Press, The Layton Court Mystery became a modest success and launched Berkeley’s career. More importantly, it introduced Roger Sheringham, the amateur sleuth who would become Berkeley’s signature creation. Sheringham went on to appear in nearly a dozen novels, as well as a stage play, limited run stories, and even a radio drama. His popularity helped cement Berkeley’s place among the notable writers of the Golden Age of detective fiction.&lt;/p&gt;
+			&lt;p&gt;Roger Sheringham stands comfortably alongside the era’s great fictional detectives. He models himself after Sherlock Holmes, adopting a flair for deduction and a collection of eccentric habits. At the same time, he shares traits with Agatha Christie’s Hercule Poirot—an attention to detail, a distinctive physical presence, and a certain attitude toward justice. This overlap is hardly accidental: Berkeley was a friend of Christie’s and a founding member of the Detection Club, the celebrated society of mystery writers to which Christie also belonged.&lt;/p&gt;
+			&lt;p&gt;Readers new to Berkeley may find The Layton Court Mystery refreshingly brisk compared to many of its contemporaries. The setting functions primarily as a backdrop, established efficiently so the plot can take center stage. Dialogue and monologue move quickly, with little wasted motion once conversations begin. Berkeley’s most delightful innovation, however, is his use of humor. Rather than presenting Sheringham as an infallible genius, he allows his protagonist to stumble—often spectacularly. Roger’s ego and overconfidence frequently lead him astray, and Alec’s occasioned exasperation towards Roger’s idiosyncrasies provides a perfect counterbalance. Their playful habit of calling each other “Roger Holmes” and “Alec Watson” underscores a self aware charm hardly seen in other mysteries of the time.&lt;/p&gt;
+			&lt;p&gt;Berkeley set out to craft a mystery led not by a flawless mastermind but by a believable, fallible human being—someone who makes mistakes, learns from them, and maintains a sense of fun even in serious circumstances. The Layton Court Mystery succeeds beautifully on that front, offering a lively blend of intrigue, humor, and character driven charm.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/72883</dc:source>
 		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anthony-berkeley_the-layton-court-mystery</meta>
 		<dc:creator id="author">Anthony Berkeley</dc:creator>
 		<meta property="file-as" refines="#author">Berkeley, Anthony</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">CONTRIBUTOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:name.person.full-name" refines="#author">Anthony Berkeley Cox</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Anthony_Berkeley_Cox</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79140991</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
+		<dc:contributor id="artist">Anonymous</dc:contributor>
 		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
@@ -61,8 +65,8 @@
 		<dc:contributor id="transcriber-1">Brian Raiter</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
+		<dc:contributor id="producer-1">Robert Leonard</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Leonard, Robert</meta>
 		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
